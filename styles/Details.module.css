@@ -1,0 +1,16 @@
+.details h2 {
+  font-size: 20px;
+  color: #186eb5;
+  margin-bottom: 10px;
+}
+.details div {
+  margin: 20px 0;
+}
+.details button {
+  background: #186eb5;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
